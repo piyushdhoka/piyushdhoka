@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 
 ---
 
-![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=piyushdhoka)
+![Profile Views](https://komarev.com/ghpvc/?username=piyushdhoka&color=blue)
 
 ### 🚀 GitHub Stats:
 ![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushdhoka&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical)
