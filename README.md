@@ -25,19 +25,13 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 
 ### 🌟 Let's Connect!
 <div>
-  <a href="https://x.com/piyushdhoka" target="_blank">
-    <img src="https://img.shields.io/badge/-X-%231DA1F2?style=for-the-badge&logo=x&logoColor=black" target="_blank">
-  </a>
-</div>
-
-<div>
   <a href="https://github.com/piyushdhoka" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
 </div>
 
 <div>
-  <a href="https://www.linkedin.com/in/piyushdhoka" target="_blank">
+  <a href="https://www.linkedin.com/in/piyushdhoka27" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
