@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 ---
 
 ### 🔥 Streak Stats:
-[![Piyush's GitHub Streak](https://streak-stats.demolab.com?user=piyushdhoka&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=piyushdhoka)](https://git.io/streak-stats)
 
 ---
 
