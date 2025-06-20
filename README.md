@@ -25,6 +25,8 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 
 ### 🌟 Let's Connect!
 <div>
+  <a href="https://x.com/piyush_dhoka27" target="_blank">
+    <img src="https://img.shields.io/badge/-X-%231DA1F2?style=for-the-badge&logo=x&logoColor=black" target="_blank">
   <a href="https://github.com/piyushdhoka" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
