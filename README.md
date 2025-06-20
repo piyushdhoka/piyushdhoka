@@ -23,6 +23,16 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 
 ---
 
+### ⌨️ LeetCode Stats:
+<details>
+ <summary><b>Click to view stats</b></summary><br>
+  <p align="center">
+<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/piyush_dhoka27?theme=radical&font=Nunito&ext=heatmap" />  
+  </p>
+</details>
+
+---
+
 ### 🌟 Let's Connect!
 <div>
   <a href="https://x.com/piyush_dhoka27" target="_blank">
