@@ -18,11 +18,6 @@ Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edg
 
 ---
 
-### 📊 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushdhoka&layout=compact&theme=radical)
-
----
-
 ### ⌨️ LeetCode Stats:
 <details>
  <summary><b>Click to view stats</b></summary><br>
