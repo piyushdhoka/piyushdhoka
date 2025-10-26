@@ -2,9 +2,7 @@
 
 ![Bar Graph GIF](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-Welcome to my GitHub profile! I'm passionate about coding, exploring cutting-edge technologies, and contributing to open-source projects. Here's a glimpse of my activity and achievements:
-
----
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" min-width="350px" max-width="350px" width="350px" align="right">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=piyushdhoka&color=blue)
 
