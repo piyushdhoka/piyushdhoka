@@ -2,7 +2,7 @@
 
 ![Bar Graph GIF](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" min-width="350px" max-width="350px" width="350px" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" min-width="350px" max-width="350px" width="350px" align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=piyushdhoka&color=blue)
 
@@ -39,10 +39,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
-
-Feel free to explore my repositories and contributions, and let's build something awesome together!
-
----
 
 ### 💖 Support My Work:
 If you enjoy my work and would like to support my contributions to open source and innovative projects, feel free to sponsor me! Your support keeps the passion alive for creating awesome projects. 😊 
