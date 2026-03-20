@@ -1,5 +1,6 @@
-# 👋 Hello, I'm Piyush Dhoka
+# Hey there, I'm Piyush Dhoka
 
+## Visitor Count
 ![Visitor Count](https://count.getloli.com/get/@piyushdhoka?theme=rule34)
 
 ---
